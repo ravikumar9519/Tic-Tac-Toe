@@ -3,7 +3,7 @@
 Welcome to the **Tic-Tac-Toe Game**! This is a classic two-player game where each player takes turns marking a cell in a 3x3 grid with either "X" or "O". The first player to align three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
 ![Tic-Tac-Toe Screenshot](ss.png) <!-- Replace this URL with an actual screenshot URL -->
-
+# [Deployment Link](https://my-tic-tac-toe-lite.netlify.app)
 ## Features
 
 - **Two Players**: Play with a friend in a two-player mode.
