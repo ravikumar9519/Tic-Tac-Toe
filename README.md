@@ -20,6 +20,7 @@ Welcome to the **Tic-Tac-Toe Game**! This is a classic two-player game where eac
 4. If all nine cells are filled and no player has three in a row, the game ends in a draw.
 5. Click the "Reset" button to start a new game.
 
+
 ## Project Structure
 
 ```plaintext
@@ -30,3 +31,11 @@ Welcome to the **Tic-Tac-Toe Game**! This is a classic two-player game where eac
 ├── ting.mp3          # Sound effect for turn change
 ├── gameover.mp3      # Sound effect for game over
 └── README.md         # This README file
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+## Contact
+
+For any questions or feedback, please contact [Ravi Bharti](mailto:ravikumarbharti959493@gmail.com).
