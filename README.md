@@ -31,7 +31,7 @@ Welcome to the **Tic-Tac-Toe Game**! This is a classic two-player game where eac
 ├── ting.mp3          # Sound effect for turn change
 ├── gameover.mp3      # Sound effect for game over
 └── README.md         # This README file
-
+```
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
