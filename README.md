@@ -12,6 +12,12 @@ Welcome to the **Tic-Tac-Toe Game**! This is a classic two-player game where eac
 - **Audio Effects**: Enjoy sound effects for player turns, game start, and game over.
 - **Responsive Design**: Play the game on any device, from desktops to mobile phones.
 
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ravikumar9519/Tic-Tac-Toe.git
+   
 ## How to Play
 
 1. The game starts with player "X".
